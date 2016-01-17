@@ -1,11 +1,10 @@
 ---
 layout:     post
 title:      "Coaching for carers"
+subtitle:   "How coaching can breathe life into your commitments to change how you feel about your situation."  
 date:       2016-01-17 15:00:00
 author:     "Alison Macduff"
-header-img: "img/post-bg-02.jpg"
 ---
-## Coaching for Carers
 
 Coaching is like a gym for the brain. It brings new perspective to a situation and supports people to find their own solutions and take action.
 
