@@ -26,4 +26,4 @@ Coaching focuses, not on the situation we are in, but on our perspective on that
 
 Coaching doesn’t have to be about taking on the world, instead, it’s about creating a worldview centred on your values and creating a life that you love.
 
-Go to the Contacts page to sign up or to get in touch with me.
+Go to the [Contacts page]({{site.url}}/contact/) to sign up or to get in touch with me.
