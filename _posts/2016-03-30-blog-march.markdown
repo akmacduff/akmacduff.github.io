@@ -1,20 +1,22 @@
 ---
 layout:     post
 title:      "Are you trying to squeeze more into an already full life?"
+subtitle:   "Have you ever noticed that so many things that could improve your life involve adding ... more?"
 date:       2016-03-30 15:00:00
 author:     "Alison Macduff"
 ---
 
 
-Blog  March 25th 2016
-
 _Are you trying to squeeze more into an already full life?_
 
-Have you ever noticed that so many things that could improve your life involve adding __more? For example:__
--	__more__ time in the gym/with the kids/meditating/jogging
--	__more__ information about getting fit/healthy eating/how to succeed
--	__more__ attention to your loved ones/the present moment
--	__more__ action around career goals/marketing yourself/searching for The One.
+Have you ever noticed that so many things that could improve your life involve adding ... __more?__ 
+
+__For example:__
+
+- __more__ time in the gym/with the kids/meditating/jogging
+- __more__ information about getting fit/healthy eating/how to succeed
+- __more__ attention to your loved ones/the present moment
+- __more__ action around career goals/marketing yourself/searching for The One.
 
 However, in my experience, trying to put more into a cup which is already full just results in overflow. In our lives that can feel like overwhelm - resulting in less sleep, poor health, low self esteem, guilt and even shame.
 
@@ -30,6 +32,7 @@ Coaching can act like a knife to cut away everything that isn’t <u>you</u> or 
 What would it be like to give up the idea of losing weight? How would it feel to be ok about the weight you are now? Notice how your body responds to that thought.
 
 Instead, what is it <u>specifically</u> that you want?
+
 -	To feel toned/fit into a size smaller?
 -	To feel less out of breath?
 -	To sleep better?
@@ -37,6 +40,7 @@ Instead, what is it <u>specifically</u> that you want?
 -	To have more energy?
 
 <u>Choose one area</u> and look at:
+
 - when you have tried and failed - and what you said about yourself.
 - what you think you ‘should’ do/be/have in this area.
 
