@@ -2,7 +2,7 @@
 layout: page
 title: "Contact"
 description: "Have questions?"
-header-img: "img/picasabackground.bmp"
+header-img: "img/picasabackground.jpg"
 ---
 
 

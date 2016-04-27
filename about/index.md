@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "This is what I do."
-header-img: "img/IMG_0506t65.jpg"
+header-img: "img/IMG_0506o65w1900.jpg"
 ---
 
 
