@@ -5,11 +5,8 @@ subtitle:   "How knowing your personality type can help you play to your strengt
 date:       2016-08-08 16:23:00
 author:     "Alison Macduff"
 ---
-
 <!--**Struggling to achieve your goal?**-->
-
 <!--**How knowing your personality type can help you play to your strengths.**-->
-
 To find your personality type, answer the following questions:
 
 1. Being with people
